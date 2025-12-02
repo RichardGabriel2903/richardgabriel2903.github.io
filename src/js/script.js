@@ -32,7 +32,8 @@ document.addEventListener("DOMContentLoaded", () => {
       "proj-guess-game-desc":
         "Um jogo interativo em JavaScript onde o jogador tenta adivinhar um número entre 1 e 100, recebendo dicas se o valor é maior ou menor, com contador de tentativas e recorde pessoal.",
       "mood-tracker": "Acompanhamento de humor",
-      "mood-tracker-desc": "Aplicativo web para monitorar e registrar o humor diário, permitindo aos usuários acompanhar seu bem-estar emocional ao longo do tempo por meio de uma interface simples e intuitiva.",
+      "mood-tracker-desc":
+        "Aplicativo web para monitorar e registrar o humor diário, permitindo aos usuários acompanhar seu bem-estar emocional ao longo do tempo por meio de uma interface simples e intuitiva.",
       "btn-ver-projeto": "Ver Projeto",
       "btn-ver-github": "Ver GitHub",
       "contact-title": "CONTATO",
@@ -41,7 +42,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "whatsapp-btn": "Fale comigo no WhatsApp",
       "memory-game": "Jogo da Memória",
       "memory-game-desc":
-        "Jogo da Memória das linguagens de programação. Os jogadores viram cartas para encontrar pares de linguagens correspondentes, testando memória e concentração",
+        "Jogo da Memória Rick and Morty. Os jogadores viram cartas para encontrar pares de personagens e objetos da série, testando memória e concentração em uma aventura interdimensional.",
     },
     en: {
       "header-title":
@@ -75,7 +76,8 @@ document.addEventListener("DOMContentLoaded", () => {
       "proj-guess-game-desc":
         "An interactive JavaScript game where the player tries to guess a number between 1 and 100, receiving hints if the value is higher or lower, with attempt counter and personal record.",
       "mood-tracker": "Humor Tracker",
-      "mood-tracker-desc": "A web app to track and log your daily mood, helping users follow their emotional well-being over time through a simple and intuitive interface. The app was developed using php.",
+      "mood-tracker-desc":
+        "A web app to track and log your daily mood, helping users follow their emotional well-being over time through a simple and intuitive interface. The app was developed using php.",
       "btn-ver-projeto": "View Project",
       "btn-ver-github": "View GitHub",
       "contact-title": "CONTACT",
@@ -83,8 +85,7 @@ document.addEventListener("DOMContentLoaded", () => {
       "whatsapp-btn": "Chat with me on WhatsApp",
       "memory-game": "Memory game",
       "memory-game-desc":
-        "Programming Languages Memory Game. Players flip cards to find matching pairs of programming languages, testing memory and concentration",
-    
+        "Rick and Morty Memory Game. Players flip cards to find matching pairs of characters and objects from the series, testing memory and concentration in an interdimensional adventure.",
     },
   };
   function updateLanguage(lang) {
