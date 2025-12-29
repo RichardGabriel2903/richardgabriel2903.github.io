@@ -43,7 +43,9 @@ document.addEventListener("DOMContentLoaded", () => {
       "memory-game": "Jogo da Memória",
       "memory-game-desc":
         "Jogo da Memória Rick and Morty. Os jogadores viram cartas para encontrar pares de personagens e objetos da série, testando memória e concentração em uma aventura interdimensional.",
-    },
+      "proj-etl-medallion-desc-title": "ETL - Arquitetura Medalhão",
+      "proj-etl-medallion-desc": "Desenvolvimento de um pipeline que integra dados de usuários a APIs externas, aplicando técnicas de QA para reduzir ruído em 100% nas métricas de gênero e localização.",
+      },
     en: {
       "header-title":
         "Richard Gabriel | Software Testing and Development Analyst",
@@ -86,7 +88,9 @@ document.addEventListener("DOMContentLoaded", () => {
       "memory-game": "Memory game",
       "memory-game-desc":
         "Rick and Morty Memory Game. Players flip cards to find matching pairs of characters and objects from the series, testing memory and concentration in an interdimensional adventure.",
-    },
+      "proj-etl-medallion-desc-title": "ETL - Medallion Architecture",
+      "proj-etl-medallion-desc": "Developing an ETL pipeline that integrates user data with external APIs, applying QA techniques to eliminate 100% of noise in gender and location metrics."
+      },
   };
   function updateLanguage(lang) {
     const aboutContentPt = document.querySelector(
